@@ -1,0 +1,9 @@
+constants\ConfigFileReader.class
+pageObjects\RegisterPage.class
+utilities\ExcelUtil.class
+pageObjects\TekSchoolHomePage.class
+utilities\LoggerUtil.class
+utilities\ScreenShotUtil.class
+utilities\ExtentUtil.class
+constants\Constants.class
+pageObjects\TestEnvironmentPage.class
